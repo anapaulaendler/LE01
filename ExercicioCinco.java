@@ -13,8 +13,8 @@ public class ExercicioCinco {
         int c = a;
         int d = b;
 
-        int a = b;
-        int b = c;
+        a = b;
+        b = c;
 
         System.out.println("O valor de A atualmente é: " + a + ". Enquanto o de B é igual a: " + b + ".\nOs valores originais de A e B eram, respectivamente:" + c + " e " + d + ".");
 

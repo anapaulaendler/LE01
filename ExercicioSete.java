@@ -8,7 +8,7 @@ public class ExercicioSete {
 
         int a = Prompt.lerInteiro("Digite seu número: ");
 
-        if (a >= 100 && b <= 200) {
+        if (a >= 100 && a <= 200) {
 
             System.out.println("O número " + a + " está dentro do intervalo [100, 200].");
 

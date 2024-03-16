@@ -5,7 +5,15 @@ public class Programa {
         ExercicioUm.executar();
         ExercicioDois.executar();
         ExercicioTres.executar();
-        
+        ExercicioQuatro.executar();
+        ExercicioCinco.executar();
+        ExercicioSeis.executar();
+        ExercicioSete.executar();
+        ExercicioOito.executar();
+        ExercicioNove.executar();
+        ExercicioDez.executar();
+        ExercicioOnze.executar();
+        ExercicioDoze.executar();
     }
 
 }

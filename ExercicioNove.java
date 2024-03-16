@@ -6,8 +6,8 @@ public class ExercicioNove {
         diferentes. Caso eles sejam iguais imprima uma mensagem dizendo que são iguais. 
         Caso sejam diferentes, informe que são diferentes e qual número é o maior. */
 
-        float a = Prompt.lerDecimal("Digite o primeiro número: ");
-        float b = Prompt.lerDecimal("Digite o segundo número: ");
+        double a = Prompt.lerDecimal("Digite o primeiro número: ");
+        double b = Prompt.lerDecimal("Digite o segundo número: ");
 
         if (a == b) {
             System.out.println("Os dois números são iguais!");

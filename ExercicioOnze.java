@@ -4,9 +4,9 @@ public class ExercicioOnze {
 
         /* Escreva um algoritmo que leia três valores inteiros distintos e escreva-os em ordem crescente. */
 
-        float a = Prompt.lerDecimal("Digite seu primeiro número: ");
-        float b = Prompt.lerDecimal("Digite seu segundo número: ");
-        float c = prompt.lerDecimal("Digite seu terceiro número: ");
+        double a = Prompt.lerDecimal("Digite seu primeiro número: ");
+        double b = Prompt.lerDecimal("Digite seu segundo número: ");
+        double c = Prompt.lerDecimal("Digite seu terceiro número: ");
 
         if (a == b || a == c || b == c ) {
             System.out.println("Números iguais presentes.");
@@ -34,4 +34,3 @@ public class ExercicioOnze {
         
         }
     }
-}

@@ -6,9 +6,8 @@ public class ExercicioDoze {
         correspondente. Valide mês inválido */
 
         int a = Prompt.lerInteiro("Digite o número do mês: ");
-        String[] nome = new String[12];
 
-        nome = ["Janeiro", "Fevereiro", "Março", "Abril", "Maio", "Junho", "Julho", "Agosto", "Setembro", "Outubro", "Novembro", "Dezembro"];
+        String[] nome = {"Janeiro", "Fevereiro", "Março", "Abril", "Maio", "Junho", "Julho", "Agosto", "Setembro", "Outubro", "Novembro", "Dezembro"};
 
         if (a < 1 && a > 12) {
             System.out.println("Número inválido!");
