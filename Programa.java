@@ -1,7 +1,6 @@
 public class Programa {
 
     public static void main(String[] args) {
-
         ExercicioUm.executar();
         ExercicioDois.executar();
         ExercicioTres.executar();
@@ -15,6 +14,7 @@ public class Programa {
         ExercicioOnze.executar();
         ExercicioDoze.executar();
         ExercicioTreze.executar();
+        ExercicioQuatorze.executar();
     }
 
 }
