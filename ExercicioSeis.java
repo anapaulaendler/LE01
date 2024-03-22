@@ -9,7 +9,7 @@ public class ExercicioSeis {
 
         double f = (9 * c + 160) / 5;
 
-        System.out.printf("A temperatura %f graus Celsius é igual a %f graus Fahrenheit.\n", c, f);
+        System.out.printf("A temperatura %.2f graus Celsius é igual a %.2f graus Fahrenheit.\n", c, f);
 
         Prompt.separador();
         

@@ -12,21 +12,21 @@ public class ExercicioOnze {
             System.out.println("Números iguais presentes.");
         } else if (a > b && a > c) {
             if (b > c) {
-                System.out.printf("Em ordem crescente: %f, %f. e %f.\n", c, b, a);
+                System.out.printf("Em ordem crescente: %.2f, %.2f. e %.2f.\n", c, b, a);
             } else {
-                System.out.printf("Em ordem crescente: %f, %f. e %f.\n", b, c, a);
+                System.out.printf("Em ordem crescente: %.2f, %.2f. e %.2f.\n", b, c, a);
             }
         } else if (b > a && b > c) {
             if (a > c) {
-                System.out.printf("Em ordem crescente: %f, %f. e %f.\n", c, a, b);
+                System.out.printf("Em ordem crescente: %.2f, %.2f. e %.2f.\n", c, a, b);
             } else {
-                System.out.printf("Em ordem crescente: %f, %f. e %f.\n", a, c, b);
+                System.out.printf("Em ordem crescente: %.2f, %.2f. e %.2f.\n", a, c, b);
             }
         } else {
             if (b > a) {
-                System.out.printf("Em ordem crescente: %f, %f. e %f.\n", a, b, c);
+                System.out.printf("Em ordem crescente: %.2f, %.2f. e %.2f.\n", a, b, c);
             } else {
-                System.out.printf("Em ordem crescente: %f, %f. e %f.\n", b, a, c);
+                System.out.printf("Em ordem crescente: %.2f, %.2f. e %.2f.\n", b, a, c);
             }
         }
 

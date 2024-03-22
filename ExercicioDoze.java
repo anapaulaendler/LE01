@@ -14,5 +14,8 @@ public class ExercicioDoze {
         } else {
             System.out.println(nome[a - 1]);
         }
+
+        Prompt.separador();
+        
     }
 }

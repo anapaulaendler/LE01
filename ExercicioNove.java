@@ -13,9 +13,9 @@ public class ExercicioNove {
             System.out.println("Os dois números são iguais!");
         } else {
             if (a > b) {
-                System.out.printf("Os dois números são diferentes, sendo %f o maior.\n", a);
+                System.out.printf("Os dois números são diferentes, sendo %.2f o maior.\n", a);
             } else if (b > a) {
-                System.out.printf("Os dois números são diferentes, sendo %f o maior.\n", b);
+                System.out.printf("Os dois números são diferentes, sendo %.2f o maior.\n", b);
             }
         }
 
