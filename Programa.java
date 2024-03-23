@@ -18,6 +18,7 @@ public class Programa {
         ExercicioQuinze.executar();
         ExercicioDezesseis.executar();
         ExercicioDezessete.executar();
+        ExercicioDezoito.executar();
     }
 
 }
