@@ -17,7 +17,7 @@ public class Programa {
         Exercicio14.executar();
         Exercicio15.executar();
         Exercicio16.executar();
-        ExercicioDezessete.executar();
+        Exercicio17.executar();
         ExercicioDezoito.executar();
         ExercicioDezenove.executar();
         ExercicioVinte.executar();

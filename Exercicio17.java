@@ -1,4 +1,4 @@
-public class ExercicioDezessete {
+public class Exercicio17 {
     public static void executar() {
         /* Elabore um algoritmo que receba três notas de um aluno os pesos referentes a 
         cada nota e retorne a sua média ponderada. Veja o cálculo da média ponderada: 
