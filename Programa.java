@@ -1,7 +1,7 @@
 public class Programa {
 
     public static void main(String[] args) {
-        ExercicioUm.executar();
+        Exercicio01.executar();
         ExercicioDois.executar();
         ExercicioTres.executar();
         ExercicioQuatro.executar();
