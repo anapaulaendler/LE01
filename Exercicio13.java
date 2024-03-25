@@ -30,7 +30,6 @@ public class Exercicio13 {
             }
         }
 
-        sc.close();
         Prompt.separador();
         
     }
