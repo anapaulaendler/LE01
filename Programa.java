@@ -5,7 +5,7 @@ public class Programa {
         Exercicio02.executar();
         Exercicio03.executar();
         Exercicio04.executar();
-        ExercicioCinco.executar();
+        Exercicio05.executar();
         ExercicioSeis.executar();
         ExercicioSete.executar();
         ExercicioOito.executar();
