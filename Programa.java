@@ -2,7 +2,7 @@ public class Programa {
 
     public static void main(String[] args) {
         Exercicio01.executar();
-        ExercicioDois.executar();
+        Exercicio02.executar();
         ExercicioTres.executar();
         ExercicioQuatro.executar();
         ExercicioCinco.executar();

@@ -1,4 +1,4 @@
-public class ExercicioDois {
+public class Exercicio02 {
 
     public static void executar() {
 
