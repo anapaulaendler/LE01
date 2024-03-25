@@ -1,6 +1,6 @@
 import java.util.Scanner;   
 
-public class ExercicioTreze {
+public class Exercicio13 {
     
     public static void executar() {
 
