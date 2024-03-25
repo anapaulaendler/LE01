@@ -10,7 +10,7 @@ public class Programa {
         Exercicio07.executar();
         Exercicio08.executar();
         Exercicio09.executar();
-        ExercicioDez.executar();
+        Exercicio10.executar();
         ExercicioOnze.executar();
         ExercicioDoze.executar();
         ExercicioTreze.executar();
