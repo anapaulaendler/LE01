@@ -1,4 +1,4 @@
-public class ExercicioDezoito {
+public class Exercicio18 {
     public static void executar() {
         /* Elabore um algoritmo que receba três notas de um aluno e retorne a sua média harmônica.  
         3 Média harmônica = 1 + 1 + 1 nota1 nota2 
