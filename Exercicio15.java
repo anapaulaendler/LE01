@@ -1,6 +1,6 @@
 import java.lang.Math;
 
-public class ExercicioQuinze {
+public class Exercicio15 {
     public static void executar() {
 
 
