@@ -1,4 +1,4 @@
-public class ExercicioDezenove {
+public class Exercicio19 {
     public static void executar() {
         /* Faça um algoritmo que receba o raio e a altura de um cilindro e retorne o seu 
         volume calculado de acordo com a seguinte fórmula: volume = 3.14 * raio2 * altura; 
