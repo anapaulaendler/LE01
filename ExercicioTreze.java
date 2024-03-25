@@ -30,6 +30,7 @@ public class ExercicioTreze {
             }
         }
 
+        sc.close();
         Prompt.separador();
         
     }
